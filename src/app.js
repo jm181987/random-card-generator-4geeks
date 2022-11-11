@@ -47,7 +47,7 @@ window.onload = function (){
               break;
           
       }
-
+      console.log(numberCard);
       return numberCard;
   }
 
