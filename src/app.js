@@ -29,7 +29,11 @@ window.onload = function (){
       let numberCard = "";
 
       switch(randomNum){
-          case 11:
+        case 1:
+          numberCard = "A";
+          break; 
+        
+        case 11:
               numberCard = "J";
               break;
           case 12:
